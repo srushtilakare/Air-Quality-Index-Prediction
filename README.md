@@ -1,8 +1,8 @@
-🌍 Smart AQI Intelligence Dashboard
+** Smart AQI Intelligence Dashboard**
 
 AI-powered Air Quality Index (AQI) Forecasting System integrated with real-time CPCB (Government of India) data.
 
-🚀 Features
+_Features_
 
 🇮🇳 Real-Time CPCB AQI Data (data.gov.in API)
 
@@ -26,13 +26,13 @@ Features: Pollutants + AQI Lag + Rolling Mean
 
 Target: Next-Day AQI
 
-⚙️ Run Locally
+_⚙️ Run Locally_
 git clone https://github.com/yourusername/Air-Quality-Index-Prediction.git
 cd Air-Quality-Index-Prediction
 pip install -r requirements.txt
 streamlit run streamlite_app.py
 
-🔐 API Setup
+_🔐 API Setup_
 
 Get API key from:
 
@@ -41,6 +41,6 @@ Get API key from:
 Use dataset:
 Real Time Air Quality Index from various locations (CPCB)
 
-🛠 Tech Stack
+_🛠 Tech Stack_
 
 Python • Streamlit • Scikit-learn • Pandas • Plotly • ReportLab
